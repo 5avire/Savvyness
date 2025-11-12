@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/Savvyness/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Nov 2025 22:27:09 +0545</lastBuildDate><atom:link href="http://localhost:1313/Savvyness/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The truth about the rarest blood type : Rh NULL</title>
+      <link>http://localhost:1313/Savvyness/posts/upload1/</link>
+      <pubDate>Wed, 12 Nov 2025 22:27:09 +0545</pubDate>
+      
+      <guid>http://localhost:1313/Savvyness/posts/upload1/</guid>
+      
+      <description>&lt;h1 id=&#34;approximately-1-in-6-million-people-have-the-blood-type--rh-null&#34;&gt;Approximately 1 in 6 million people have the blood type : Rh Null.&lt;/h1&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
