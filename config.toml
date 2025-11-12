@@ -1,5 +1,5 @@
 baseURL = 'https://5avire.github.io/Savvyness/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Savvyness - Blog'
 theme = "hugo-blog-awesome"
 
