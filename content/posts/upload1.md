@@ -1,10 +1,10 @@
 +++
 date = '2025-11-12T22:27:09+05:45'
-title = " The truth about Blood "
+title = " Rh null : The rarest blood type "
 +++
 
 # Approximately only one in six million people have the blood type : Rh Null.
-# Scientists are trying to artificially make this blood type.
+
 
 Blood transfusion have changed the way modern treatments work.
 Anyone who is ever injured and in need of blood can just simply get it by transfusing it.
@@ -36,4 +36,9 @@ In a 2018 study, Toye and colleagues at the University of Bristol recreated Rh n
 They achieved this by taking a cell line of immature red blood cell and used gene editing technique Crispr-Cas9 to delete Rh factors responsible for incompatibilities.
 The blood resulting from this can be used for transfusing onto anyone with the more common 5 types of blood.
 
-<sub>[Cited from BBC](https://www.bbc.com/future/article/20251111-the-magic-of-the-worlds-rarest-blood-type)</sub>
+This blood type can be very useful for treating patients. Especially those with major blood conditions.
+Not just that, anyone can take advantage of this type of blood. In case of emergencies, someone who can not find a donor
+for their blood type can just use this blood type. It can offer insights to blood cell functions and aid in the 
+development of treatment for conditions like Rhesus disease.
+
+<sub> - Cited from [BBC](https://www.bbc.com/future/article/20251111-the-magic-of-the-worlds-rarest-blood-type)</sub>
