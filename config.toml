@@ -2,4 +2,9 @@ baseURL = 'https://5avire.github.io/Savvyness/'
 languageCode = 'en-us'
 title = 'Savvyness - Blog'
 theme = "hugo-blog-awesome"
-
+[params]
+    defaultTheme = "dark"
+    # Some themes use:
+    appearance = "dark"
+    # To disable the toggle so users can't switch it back:
+    disableThemeToggle = true
