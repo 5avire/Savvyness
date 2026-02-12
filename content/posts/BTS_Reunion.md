@@ -1,7 +1,7 @@
 +++
 date = '2025-07-05'
 draft = false
-title = 'BTS_Reunion'
+title = 'BTS Reunion'
 +++
 
 K-pop boy-band group BTS officially announces it's reunion and a reunion tour around the world.

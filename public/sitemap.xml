@@ -2,26 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Savvyness/posts/upload1/</loc>
+    <loc>http://localhost:41545/Savvyness/posts/upload1/</loc>
     <lastmod>2025-11-12T22:27:09+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Savvyness/posts/</loc>
+    <loc>http://localhost:41545/Savvyness/posts/</loc>
     <lastmod>2025-11-12T22:27:09+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Savvyness/</loc>
+    <loc>http://localhost:41545/Savvyness/</loc>
     <lastmod>2025-11-12T22:27:09+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Savvyness/posts/earthwarm/</loc>
+    <loc>http://localhost:41545/Savvyness/posts/natoalliestobuyusweapons/</loc>
+    <lastmod>2025-07-14T19:16:05+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:41545/Savvyness/posts/somalicivilwar/</loc>
+    <lastmod>2025-07-14T19:08:12+05:45</lastmod>
+  </url><url>
+    <loc>http://localhost:41545/Savvyness/posts/earthwarm/</loc>
     <lastmod>2025-07-10T17:42:00+05:45</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Savvyness/posts/bts_reunion/</loc>
+    <loc>http://localhost:41545/Savvyness/posts/bts_reunion/</loc>
     <lastmod>2025-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Savvyness/posts/usaid_shutteered/</loc>
+    <loc>http://localhost:41545/Savvyness/posts/usaid_shutteered/</loc>
     <lastmod>2025-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Savvyness/categories/</loc>
+    <loc>http://localhost:41545/Savvyness/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/Savvyness/tags/</loc>
+    <loc>http://localhost:41545/Savvyness/tags/</loc>
   </url>
 </urlset>

@@ -1,7 +1,7 @@
 {
     "name": "Savvyness - Blog",
     "short_name": "Savvyness - Blog",
-    "start_url": "http://localhost:1313/Savvyness/",
+    "start_url": "http://localhost:41545/Savvyness/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",

@@ -1,5 +1,5 @@
 +++
-date = '2026-07-01T18:13:56+05:45'
+date = '2025-07-01T18:13:56+05:45'
 draft = false
 title = "Comet 3I-ATLAS Discovered as Potentially Oldest Object"
 +++

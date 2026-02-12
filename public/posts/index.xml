@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Savvyness - Blog</title>
-    <link>http://localhost:1313/Savvyness/posts/</link>
+    <link>http://localhost:41545/Savvyness/posts/</link>
     <description>Recent content in Posts on Savvyness - Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Nov 2025 22:27:09 +0545</lastBuildDate><atom:link href="http://localhost:1313/Savvyness/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Nov 2025 22:27:09 +0545</lastBuildDate><atom:link href="http://localhost:41545/Savvyness/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Rh null : The rarest blood type </title>
-      <link>http://localhost:1313/Savvyness/posts/upload1/</link>
+      <link>http://localhost:41545/Savvyness/posts/upload1/</link>
       <pubDate>Wed, 12 Nov 2025 22:27:09 +0545</pubDate>
       
-      <guid>http://localhost:1313/Savvyness/posts/upload1/</guid>
+      <guid>http://localhost:41545/Savvyness/posts/upload1/</guid>
       
       <description>&lt;h1 id=&#34;approximately-only-one-in-six-million-people-have-the-blood-type--rh-null&#34;&gt;Approximately only one in six million people have the blood type : Rh Null.&lt;/h1&gt;
 &lt;p&gt;Blood transfusion have changed the way modern treatments work.
@@ -29,11 +29,53 @@ This blood type also has another name due to its rarity, it&amp;rsquo;s often re
     </item>
     
     <item>
+      <title>NATO Allies To Buy Weapons from US</title>
+      <link>http://localhost:41545/Savvyness/posts/natoalliestobuyusweapons/</link>
+      <pubDate>Mon, 14 Jul 2025 19:16:05 +0545</pubDate>
+      
+      <guid>http://localhost:41545/Savvyness/posts/natoalliestobuyusweapons/</guid>
+      
+      <description>&lt;p&gt;President Trump announced that NATO membered countries / allies ave agreed to purchase U.S. made weapons.
+This also includes Patriot air defence missile systems.
+It seems the main objective of U.S. is to sell weapons to&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Somali Civil War, Recapture of village Tardo</title>
+      <link>http://localhost:41545/Savvyness/posts/somalicivilwar/</link>
+      <pubDate>Mon, 14 Jul 2025 19:08:12 +0545</pubDate>
+      
+      <guid>http://localhost:41545/Savvyness/posts/somalicivilwar/</guid>
+      
+      <description>&lt;p&gt;A village in Hiiraan region of Hirshabelle state, central Somalia called Tardo VIllage was under Somali National Army Force. This was recaptured by Al-Shabaab militants on July-13/14.
+The village had been held by a small Somali Army force.
+Reports indicate that this takeover happened with very-little resistance after government-aligned forces withdrew.
+This formed part was a part of strategic triangle control to dustrupt supply lines, encirclepositions, and displace thousands. The advance highlighted setbacks for Somali conunter measure efforts amid political divisions.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Gaza War - Israel strikes on water collection point</title>
+      <link>http://localhost:41545/Savvyness/posts/gazawar/</link>
+      <pubDate>Sun, 13 Jul 2025 19:01:30 +0545</pubDate>
+      
+      <guid>http://localhost:41545/Savvyness/posts/gazawar/</guid>
+      
+      <description>&lt;p&gt;July 13,2025 , on a Sunday, an Israeli airstrike hit a water distribution point in Nuseirat refugee camp, central Gaza Strip.
+Palestinian health officials at AI-Awda hospitals reported the death of 10 people minimum.
+This included six childrens as well.
+Many wounded civilians queued for water due to severe shortage caused by this incident.
+The overall death in Gaza has reached well over 58,000 after this long period of conflict.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>Earths 3rd Warmest Record</title>
-      <link>http://localhost:1313/Savvyness/posts/earthwarm/</link>
+      <link>http://localhost:41545/Savvyness/posts/earthwarm/</link>
       <pubDate>Thu, 10 Jul 2025 17:42:00 +0545</pubDate>
       
-      <guid>http://localhost:1313/Savvyness/posts/earthwarm/</guid>
+      <guid>http://localhost:41545/Savvyness/posts/earthwarm/</guid>
       
       <description>&lt;p&gt;NOAA&amp;rsquo;s (National Oceanic and Atmospheric Administration ) climate report confirms that July 2025 as the third warmest July globally on record.
 This contributes to 2025 being one of the warmest year ever recorded.
@@ -47,11 +89,23 @@ This asks for international effort to reduce emmissions and pollution globally.&
     </item>
     
     <item>
-      <title>BTS_Reunion</title>
-      <link>http://localhost:1313/Savvyness/posts/bts_reunion/</link>
+      <title>Global Trade Booming despite the Tariffs</title>
+      <link>http://localhost:41545/Savvyness/posts/globaltradegreatdespitepolicy/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:41545/Savvyness/posts/globaltradegreatdespitepolicy/</guid>
+      
+      <description>&lt;p&gt;Global trade expanded by an estimated $300 billion in the first half of 2025, growing at an estimated 1.5% in the first quarter and projections showing 2% growth in the second.
+Although President Trump is busy dumping Tariff&amp;rsquo;s and causing massive geo-political issues among itself and other countries, global Trades are going off at a steady pace.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>BTS Reunion</title>
+      <link>http://localhost:41545/Savvyness/posts/bts_reunion/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Savvyness/posts/bts_reunion/</guid>
+      <guid>http://localhost:41545/Savvyness/posts/bts_reunion/</guid>
       
       <description>&lt;p&gt;K-pop boy-band group BTS officially announces it&amp;rsquo;s reunion and a reunion tour around the world.
 Such an act has caused massive hype among it&amp;rsquo;s fans in the K-pop industry.
@@ -65,11 +119,27 @@ This project is projected to contribute over $10 Billion to the nation&amp;rsquo
     </item>
     
     <item>
+      <title>Comet 3I-ATLAS Discovered as Potentially Oldest Object</title>
+      <link>http://localhost:41545/Savvyness/posts/comet/</link>
+      <pubDate>Tue, 01 Jul 2025 18:13:56 +0545</pubDate>
+      
+      <guid>http://localhost:41545/Savvyness/posts/comet/</guid>
+      
+      <description>&lt;p&gt;A telescope funded by NASA , The Asteroid Terrestrial-Impact Last Alert System, discovers Comet 3I/ATLAS.
+This intestellar object is believed to possibly be the oldest known comet till date.
+This is valuable data on Intestellar and brings us one step closer to the start of time and space itself.&lt;/p&gt;
+&lt;p&gt;This data can help know more about the &amp;ldquo;Big-Bang&amp;rdquo; which is believed to be the origin of the entire universe itself.
+It can help us inch ever so closer to understanding how it all started.
+It can also possibly help find new particles left to be undiscovered till yet that were formed close to the Big Bang itself.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title> USAID Shuttered </title>
-      <link>http://localhost:1313/Savvyness/posts/usaid_shutteered/</link>
+      <link>http://localhost:41545/Savvyness/posts/usaid_shutteered/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/Savvyness/posts/usaid_shutteered/</guid>
+      <guid>http://localhost:41545/Savvyness/posts/usaid_shutteered/</guid>
       
       <description>&lt;p&gt;On July-1st, 2025, President Donald Trump officially ended it&amp;rsquo;s agency for International Department.
 This had a huge effect on not just the U.S. but also other countries.
@@ -79,6 +149,23 @@ This had a huge effect on a lot of countries receiving aid and help from the US.
 It has caused immediate cut-off of health, education and infrastructure support on them.
 This not only signifies the loss of foreign aid from U.S.A. but also how it might handle foreign related things later on.
 It has moved away from a typical &amp;ldquo;soft power&amp;rdquo; to more of a transaction based power rule by the Government.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Largest Health Care Fraud Taken Down</title>
+      <link>http://localhost:41545/Savvyness/posts/largesthealthcarefraud/</link>
+      <pubDate>Mon, 30 Jun 2025 18:02:31 +0545</pubDate>
+      
+      <guid>http://localhost:41545/Savvyness/posts/largesthealthcarefraud/</guid>
+      
+      <description>&lt;p&gt;The justice Department in US announced it&amp;rsquo;s results of 2025 National Health care Fraud takedown which caused criminal charges against around 300 defendants.
+The defendants include 96 Doctors, nurse practioner, pharmacists and other liscened medical practioners.
+This happened in 50 federal districts and exposed schemes involving over $14 Billion in intended loss.
+The takedown involved federal and state law enforcement across multiple agency in the country.
+This is the largest fraud ever done in US medical history with over $13 Billion in fraud money.
+It caused millions of dollars worth of property to be seized by the government.
+This operation prevented billions from being paid out through proactive data analysis by DOJ&amp;rsquo;s Health Care Fraud Unit.&lt;/p&gt;</description>
       
     </item>
     
