@@ -9,4 +9,4 @@ This killed over 200 civilians.
 According to the Sudan Doctors Union, the attacks targeted non-Arab populations.
 
 This also included a clinic in the ZamZam displacement camp, and they were strategically targeted. These event represent some of the darkest chapter of conflicts.
-The RSF continues to consolidate control over the Darfur region through what others have opionated as genocide.
+The RSF continues to consolidate control over the Darfur region through what others have opinionated as genocide.
