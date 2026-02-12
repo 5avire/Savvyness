@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Savvyness - Blog</title>
-    <link>http://localhost:37857/Savvyness/posts/</link>
+    <link>http://localhost:1313/Savvyness/posts/</link>
     <description>Recent content in Posts on Savvyness - Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Nov 2025 22:27:09 +0545</lastBuildDate><atom:link href="http://localhost:37857/Savvyness/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Nov 2025 22:27:09 +0545</lastBuildDate><atom:link href="http://localhost:1313/Savvyness/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Rh null : The rarest blood type </title>
-      <link>http://localhost:37857/Savvyness/posts/upload1/</link>
+      <link>http://localhost:1313/Savvyness/posts/upload1/</link>
       <pubDate>Wed, 12 Nov 2025 22:27:09 +0545</pubDate>
       
-      <guid>http://localhost:37857/Savvyness/posts/upload1/</guid>
+      <guid>http://localhost:1313/Savvyness/posts/upload1/</guid>
       
       <description>&lt;h1 id=&#34;approximately-only-one-in-six-million-people-have-the-blood-type--rh-null&#34;&gt;Approximately only one in six million people have the blood type : Rh Null.&lt;/h1&gt;
 &lt;p&gt;Blood transfusion have changed the way modern treatments work.
@@ -29,11 +29,87 @@ This blood type also has another name due to its rarity, it&amp;rsquo;s often re
     </item>
     
     <item>
+      <title>Flood across Pakistan</title>
+      <link>http://localhost:1313/Savvyness/posts/floodinpakistan/</link>
+      <pubDate>Sat, 16 Aug 2025 21:12:09 +0545</pubDate>
+      
+      <guid>http://localhost:1313/Savvyness/posts/floodinpakistan/</guid>
+      
+      <description>&lt;p&gt;Heavy monsoon rains have triggered immense flooding in Khyber Pakhtunkhwa province in Pakistan starting around August 14.
+The total death is rising day by day and is currently at around 321 deaths.
+This severe flooding has caused entire villages to be submerged, thousands to be displaced and heavy damage to infrastructure.&lt;/p&gt;
+&lt;p&gt;On August 15, a government helicopter despached for flood relief was also crashed due to bad and unstable weather.
+The flood has displaced more than 100k civilians. International support for the area has been urged as urgent support. The scale of destruction is quite large and is questioning climate resilience and how pakistan prepares for such scenarios.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Diplomatic Breakthrough between US and Russia</title>
+      <link>http://localhost:1313/Savvyness/posts/diplomaticbreakthrough-us-russia/</link>
+      <pubDate>Fri, 08 Aug 2025 20:46:50 +0545</pubDate>
+      
+      <guid>http://localhost:1313/Savvyness/posts/diplomaticbreakthrough-us-russia/</guid>
+      
+      <description>&lt;p&gt;President Donand Trump Ordered two U.S. Navy nuclear submarines to be repositioned near Russia.
+This was done according to Trump in response to &amp;ldquo;provocative statements&amp;rdquo; by previous Russian President Dmitry Medvedev. This escalated verbral tensions in the moddle of ongoing Ukrainian drone strikes on Russian infrastructure.&lt;/p&gt;
+&lt;p&gt;By August-8, a major diplomatic achievement was achieved when Armenian Prime Minister Nikol Pashinyan and Illham Aliyev of Ajerbaijan met Trump at the White House to sign a peace agreement ending decades of conflict.
+This also included commitments to non-aggression and development in the Zangezur corridor faciliated by U.S. .
+This was a Trump-brokered success contrasting U.S.-Russia nuclear signaling.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Trump implements Tariffs under related trade actions</title>
+      <link>http://localhost:1313/Savvyness/posts/trumpytariffs/</link>
+      <pubDate>Fri, 01 Aug 2025 20:37:12 +0545</pubDate>
+      
+      <guid>http://localhost:1313/Savvyness/posts/trumpytariffs/</guid>
+      
+      <description>&lt;p&gt;Friday, August-1&lt;!-- raw HTML omitted --&gt;st&lt;!-- raw HTML omitted --&gt;, President Trump applied his Broader Trade Policy.
+This policy brought upon many countries &amp;ldquo;tariffs&amp;rdquo;.
+U.S. tariffs swept imports fromover 90 countries after a 90 day preparation pause, including 35% on some Canadian goods and 50% on Brazilian goods, with a baseline of around 30% varying by country or balance.&lt;/p&gt;
+&lt;p&gt;By today, additional escalations included increase on Indian imports to around 50% and the tariffs aimed at addressing trade deficits.
+This was meant for a greater good as said by Trump, however the world has replied to this with economic concerns with potential retaliation and higher consumption costs. Reports highlighted Canada&amp;rsquo;s significant hit and negotiations for some countries. Trump does not seem to want to back away from this claim of his.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Cambodia-Thailand border clashes escales</title>
+      <link>http://localhost:1313/Savvyness/posts/cambodiathaiborderclash/</link>
+      <pubDate>Tue, 22 Jul 2025 20:27:14 +0545</pubDate>
+      
+      <guid>http://localhost:1313/Savvyness/posts/cambodiathaiborderclash/</guid>
+      
+      <description>&lt;p&gt;Armed clashes erupted near Prasat Ta Muen Thom temple along Cambodia-Thailand border.
+This incident on Thursday, July-24,2025 caused thousands of displacement among civilians.
+According to reports, at least 14 people were killed and 46 injured on the Thai side with additional casualties on both sides.
+The cause for this incident was long standing tention between the two nations about border territory.
+Thailand later on declared martial law in border districts, highlighting regional tensions and the need for diploatic intervention to prevent wide escalation of the incident.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Deadly Air Force crash in Dhaka</title>
+      <link>http://localhost:1313/Savvyness/posts/jetforcecrashdhaka/</link>
+      <pubDate>Mon, 21 Jul 2025 20:19:28 +0545</pubDate>
+      
+      <guid>http://localhost:1313/Savvyness/posts/jetforcecrashdhaka/</guid>
+      
+      <description>&lt;p&gt;Bangladesh Air Force FT-7BG! ( Chengdu 7-J variant ) training aircraft crashed shortly after takeoff from base.
+It plunged into the Milestone School and College in Uttara,Dhaka. This incident lead to around 31 death and over 50 injured.
+Some reports even cite upto 27 death among civilians and students.
+This crash caused widespread destruction on the educational site drawing the attention of nation which lead to a nation wide mourning.
+The investigation on the crash till now are not clear yet. However, it&amp;rsquo;s believed to be mechanical orpilot error.
+It ranks as one of the most deadly accident involving military planes in the recent history of Bangladesh.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>NATO Allies To Buy Weapons from US</title>
-      <link>http://localhost:37857/Savvyness/posts/natoalliestobuyusweapons/</link>
+      <link>http://localhost:1313/Savvyness/posts/natoalliestobuyusweapons/</link>
       <pubDate>Mon, 14 Jul 2025 19:16:05 +0545</pubDate>
       
-      <guid>http://localhost:37857/Savvyness/posts/natoalliestobuyusweapons/</guid>
+      <guid>http://localhost:1313/Savvyness/posts/natoalliestobuyusweapons/</guid>
       
       <description>&lt;p&gt;President Trump announced that NATO membered countries / allies ave agreed to purchase U.S. made weapons.
 This also includes Patriot air defence missile systems.
@@ -45,10 +121,10 @@ He highlighted that the Patriot systems are critical for Ukrain&amp;rsquo;s air 
     
     <item>
       <title>Somali Civil War, Recapture of village Tardo</title>
-      <link>http://localhost:37857/Savvyness/posts/somalicivilwar/</link>
+      <link>http://localhost:1313/Savvyness/posts/somalicivilwar/</link>
       <pubDate>Mon, 14 Jul 2025 19:08:12 +0545</pubDate>
       
-      <guid>http://localhost:37857/Savvyness/posts/somalicivilwar/</guid>
+      <guid>http://localhost:1313/Savvyness/posts/somalicivilwar/</guid>
       
       <description>&lt;p&gt;A village in Hiiraan region of Hirshabelle state, central Somalia called Tardo VIllage was under Somali National Army Force. This was recaptured by Al-Shabaab militants on July-13/14.
 The village had been held by a small Somali Army force.
@@ -59,10 +135,10 @@ This formed part was a part of strategic triangle control to dustrupt supply lin
     
     <item>
       <title>Gaza War - Israel strikes on water collection point</title>
-      <link>http://localhost:37857/Savvyness/posts/gazawar/</link>
+      <link>http://localhost:1313/Savvyness/posts/gazawar/</link>
       <pubDate>Sun, 13 Jul 2025 19:01:30 +0545</pubDate>
       
-      <guid>http://localhost:37857/Savvyness/posts/gazawar/</guid>
+      <guid>http://localhost:1313/Savvyness/posts/gazawar/</guid>
       
       <description>&lt;p&gt;July 13,2025 , on a Sunday, an Israeli airstrike hit a water distribution point in Nuseirat refugee camp, central Gaza Strip.
 Palestinian health officials at AI-Awda hospitals reported the death of 10 people minimum.
@@ -74,10 +150,10 @@ The overall death in Gaza has reached well over 58,000 after this long period of
     
     <item>
       <title>Earths 3rd Warmest Record</title>
-      <link>http://localhost:37857/Savvyness/posts/earthwarm/</link>
+      <link>http://localhost:1313/Savvyness/posts/earthwarm/</link>
       <pubDate>Thu, 10 Jul 2025 17:42:00 +0545</pubDate>
       
-      <guid>http://localhost:37857/Savvyness/posts/earthwarm/</guid>
+      <guid>http://localhost:1313/Savvyness/posts/earthwarm/</guid>
       
       <description>&lt;p&gt;NOAA&amp;rsquo;s (National Oceanic and Atmospheric Administration ) climate report confirms that July 2025 as the third warmest July globally on record.
 This contributes to 2025 being one of the warmest year ever recorded.
@@ -92,10 +168,10 @@ This asks for international effort to reduce emmissions and pollution globally.&
     
     <item>
       <title>Global Trade Booming despite the Tariffs</title>
-      <link>http://localhost:37857/Savvyness/posts/globaltradegreatdespitepolicy/</link>
+      <link>http://localhost:1313/Savvyness/posts/globaltradegreatdespitepolicy/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:37857/Savvyness/posts/globaltradegreatdespitepolicy/</guid>
+      <guid>http://localhost:1313/Savvyness/posts/globaltradegreatdespitepolicy/</guid>
       
       <description>&lt;p&gt;Global trade expanded by an estimated $300 billion in the first half of 2025, growing at an estimated 1.5% in the first quarter and projections showing 2% growth in the second.
 Although President Trump is busy dumping Tariff&amp;rsquo;s and causing massive geo-political issues among itself and other countries, global Trades are going off at a steady pace.&lt;/p&gt;</description>
@@ -104,10 +180,10 @@ Although President Trump is busy dumping Tariff&amp;rsquo;s and causing massive 
     
     <item>
       <title>BTS Reunion</title>
-      <link>http://localhost:37857/Savvyness/posts/bts_reunion/</link>
+      <link>http://localhost:1313/Savvyness/posts/bts_reunion/</link>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:37857/Savvyness/posts/bts_reunion/</guid>
+      <guid>http://localhost:1313/Savvyness/posts/bts_reunion/</guid>
       
       <description>&lt;p&gt;K-pop boy-band group BTS officially announces it&amp;rsquo;s reunion and a reunion tour around the world.
 Such an act has caused massive hype among it&amp;rsquo;s fans in the K-pop industry.
@@ -122,10 +198,10 @@ This project is projected to contribute over $10 Billion to the nation&amp;rsquo
     
     <item>
       <title>Comet 3I-ATLAS Discovered as Potentially Oldest Object</title>
-      <link>http://localhost:37857/Savvyness/posts/comet/</link>
+      <link>http://localhost:1313/Savvyness/posts/comet/</link>
       <pubDate>Tue, 01 Jul 2025 18:13:56 +0545</pubDate>
       
-      <guid>http://localhost:37857/Savvyness/posts/comet/</guid>
+      <guid>http://localhost:1313/Savvyness/posts/comet/</guid>
       
       <description>&lt;p&gt;A telescope funded by NASA , The Asteroid Terrestrial-Impact Last Alert System, discovers Comet 3I/ATLAS.
 This intestellar object is believed to possibly be the oldest known comet till date.
@@ -138,10 +214,10 @@ It can also possibly help find new particles left to be undiscovered till yet th
     
     <item>
       <title> USAID Shuttered </title>
-      <link>http://localhost:37857/Savvyness/posts/usaid_shutteered/</link>
+      <link>http://localhost:1313/Savvyness/posts/usaid_shutteered/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:37857/Savvyness/posts/usaid_shutteered/</guid>
+      <guid>http://localhost:1313/Savvyness/posts/usaid_shutteered/</guid>
       
       <description>&lt;p&gt;On July-1st, 2025, President Donald Trump officially ended it&amp;rsquo;s agency for International Department.
 This had a huge effect on not just the U.S. but also other countries.
@@ -156,10 +232,10 @@ It has moved away from a typical &amp;ldquo;soft power&amp;rdquo; to more of a t
     
     <item>
       <title>Largest Health Care Fraud Taken Down</title>
-      <link>http://localhost:37857/Savvyness/posts/largesthealthcarefraud/</link>
+      <link>http://localhost:1313/Savvyness/posts/largesthealthcarefraud/</link>
       <pubDate>Mon, 30 Jun 2025 18:02:31 +0545</pubDate>
       
-      <guid>http://localhost:37857/Savvyness/posts/largesthealthcarefraud/</guid>
+      <guid>http://localhost:1313/Savvyness/posts/largesthealthcarefraud/</guid>
       
       <description>&lt;p&gt;The justice Department in US announced it&amp;rsquo;s results of 2025 National Health care Fraud takedown which caused criminal charges against around 300 defendants.
 The defendants include 96 Doctors, nurse practioner, pharmacists and other liscened medical practioners.
