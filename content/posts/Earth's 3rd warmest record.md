@@ -1,7 +1,7 @@
 +++
 date = '2025-07-10T17:42:00+05:45'
 draft = false
-title = 'Earth's 3rd Warmest Record'
+title = 'Earths 3rd Warmest Record'
 +++
 
 NOAA's (National Oceanic and Atmospheric Administration ) climate report confirms that July 2025 as the third warmest July globally on record.
